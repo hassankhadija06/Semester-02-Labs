@@ -58,7 +58,7 @@ g++ main.cpp -o lab_output
 
 ## 🧑‍💻 About Me
 
-I'm a passionate CS student eager to master C++ and object-oriented thinking.  
+I'm a passionate Software Engineering student eager to master C++ and object-oriented thinking.  
 I aim for clarity, efficiency, and a strong foundation in every line of code I write.
 
 [🔗 GitHub Profile](https://github.com/hassankhadija06)
